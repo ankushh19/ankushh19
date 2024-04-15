@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/ankushh19)
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2361e682f29dd5165f3a6ee20019ec078041b1577d3280af7c86e53178cdf5da/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushh19&label=Profile%20views&color=0e75b6&style=flat" alt="ankushh19" /> </p>
