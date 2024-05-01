@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ankush.ropio@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I know who is Sogeking(One Piece Anime)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
