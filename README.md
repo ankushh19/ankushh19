@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ankushh19.github.io/portfolio/](https://ankushh19.github.io/portfolio/)
 
-- 💬 Ask me about **React, Expo, Redux, Zustand, React Query and Backend Technologies**
+- 💬 Ask me about **React, NextJS Expo, Redux, Zustand, React Query and Backend Technologies**
 
 - 📫 How to reach me **ankush.kumar0245@gmail.com**
 
