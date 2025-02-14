@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush</h1>
-<h3 align="center">A passionate Web & App developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushh19&label=Profile%20views&color=0e75b6&style=flat" alt="ankushh19" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ankushh19.github.io/portfolio/](https://ankushh19.github.io/portfolio/)
 
-- 💬 Ask me about **React, NextJS, Expo, Redux, Zustand, React Query and Backend Technologies**
+- 💬 Ask me about **React, NextJS, Expo, Redux, Zustand, & React Query etc.**
 
 - 📫 How to reach me **ankush.kumar0245@gmail.com**
 
