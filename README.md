@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend heave full stack developer</h3>
 
 # 💫 About Me:
 🚀 I'm currently working on a Full Stack Project (React, NextJS and Supabase).<br>🤝 I'm looking to collaborate on Frontend or Full Stack Projects.<br>🫂 I'm looking for help to deep dive into Backend and DevOps.<br>🌱 I'm currently learning Backend Development.<br>⚡️ Ask me about React, JS/TS, React Native, NextJS, Motion, React Query, Zod, Zustand, RTK, RESTful APIs<br>
